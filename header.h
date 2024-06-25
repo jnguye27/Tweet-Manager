@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>	
+#include <time.h> // Allows for random seed
+#include <ctype.h> // tolower() in function 3
 
 typedef struct microtweet{
     int id; 				//unique integer value	
