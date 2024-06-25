@@ -1,5 +1,4 @@
-#include "headerA3.h"
-#include "headerAddA3.h"
+#include "header.h"
 
 // Function 3: Search for the word in the linked list given
 int searchTweetsByKeyword(tweet * tweetList)
