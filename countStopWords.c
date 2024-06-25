@@ -1,5 +1,4 @@
 #include "header.h"
-#include "headerAddOn.h"
 
 // Function 4: Finds, counts, shows the user how many stopwords there are in each tweet
 void countStopWords(tweet * tweetList)
