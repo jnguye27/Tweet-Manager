@@ -1,5 +1,4 @@
 #include "header.h"
-#include "headerAddOn.h"
 
 // Function 2: Displays all the tweets in the linked list given
 void displayTweets(tweet * tweetList)
