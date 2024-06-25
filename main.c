@@ -1,3 +1,9 @@
+/*
+Program: Tweet Manager
+Creator: Jessica Nguyen
+Due Date: 2022-03-31 
+*/
+
 #include "header.h"
 
 int main (int argc, char * argv[]) 
