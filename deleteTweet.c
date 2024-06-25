@@ -1,5 +1,5 @@
-#include "headerA3.h"
-#include "headerAddA3.h"
+#include "header.h"
+#include "headerAddOn.h"
 
 // Function 5: Deletes a tweet that the user chooses
 void deleteTweet(tweet ** tweetList)
