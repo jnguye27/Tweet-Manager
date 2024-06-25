@@ -1,5 +1,4 @@
-#include "headerA3.h"
-#include "headerAddA3.h"
+#include "header.h"
 
 // Function 6: Saves the linked list to a file
 void saveTweetsToFile(tweet * tweetList)
