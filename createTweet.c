@@ -1,5 +1,4 @@
 #include "header.h"
-#include "headerAddOn.h"
 
 // Function 1: Creates a tweet
 tweet * createTweet(tweet * tweetList)
