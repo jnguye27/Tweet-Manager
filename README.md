@@ -6,7 +6,7 @@ To compile:
 make  
   
 To run:  
-./nguyenJessicaA3  
+./tweetManager
   
 Known limitations:  
 1) Although I've added a while loop to try and fix inputs that are longer than text[141], displaying it causes it to crash my program.  
