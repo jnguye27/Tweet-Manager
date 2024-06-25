@@ -1,5 +1,4 @@
-#include "headerA3.h"
-#include "headerAddA3.h"
+#include "header.h"
 
 int main (int argc, char * argv[]) 
 {
