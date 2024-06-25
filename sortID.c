@@ -1,5 +1,4 @@
-#include "headerA3.h"
-#include "headerAddA3.h"
+#include "header.h"
 
 // Function 8: Sorts the nodes based on id values
 void sortID (tweet ** head)
