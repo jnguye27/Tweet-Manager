@@ -1,5 +1,4 @@
-#include "headerA3.h"
-#include "headerAddA3.h"
+#include "header.h"
 
 // Function 7: Loads the file linked list to a program
 void loadTweetsFromFile(tweet ** tweetList)
