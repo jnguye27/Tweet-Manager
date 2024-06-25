@@ -1,4 +1,5 @@
 #include "header.h"
+
 // Function 5: Deletes a tweet that the user chooses
 void deleteTweet(tweet ** tweetList)
 {
